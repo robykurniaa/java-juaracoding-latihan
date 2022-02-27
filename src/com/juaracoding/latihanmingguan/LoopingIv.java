@@ -1,7 +1,5 @@
 package com.juaracoding.latihanmingguan;
 
-import java.util.Scanner;
-
 public class LoopingIv {
     public static void main(String[] args) {
 

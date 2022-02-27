@@ -1,5 +1,4 @@
 package com.juaracoding.latihanmingguan;
-
 import java.util.Scanner;
 
 public class DecimalFormat {
