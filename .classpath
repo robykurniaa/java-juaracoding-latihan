@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="com/looping/|com/latihanku/|com/juaracoding/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/com/juaracoding"/>
+	<classpathentry kind="src" path="src/com/latihanku"/>
+	<classpathentry kind="src" path="src/com/looping"/>
+	<classpathentry kind="output" path="out/production/SQA_BATCH_2"/>
+</classpath>
