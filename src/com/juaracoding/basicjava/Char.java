@@ -1,4 +1,4 @@
-package com.juaracoding;
+package com.juaracoding.basicjava;
 
 import java.util.*;
 public class Char {
