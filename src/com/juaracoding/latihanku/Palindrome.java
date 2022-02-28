@@ -19,7 +19,7 @@ public class Palindrome {
                 sb.reverse();
                 String polindrome = sb.toString();
 
-                System.out.println("Text Original : " + cekPalindrom);
+                System.out.println("Text Asli : " + cekPalindrom);
                 System.out.println("Text Polindrome : " + polindrome);
 
                 if (cekPalindrom.equalsIgnoreCase(polindrome)) {
@@ -27,8 +27,6 @@ public class Palindrome {
                 }else{
                     System.out.println("Bukan Polindrome");
                 }
-
-
             }
             else{
                 System.out.println("Program Selesai");
